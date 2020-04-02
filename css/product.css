@@ -6,16 +6,15 @@
  * Custom translucent site header
  */
 
-.carousel-item {
-  height: 32rem;
+.earthDefense{
+	
+	align-content: center !important;
+	margin-top: 50px !important;
+	align: middle !important;
+	vertical-align: middle;
 }
-.carousel-item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 32rem;
-}
+
+
 
 .site-header {
   background-color: rgba(0, 0, 0, .85);
