@@ -1,5 +1,5 @@
 /* CSS Document */
-.hero-image{
+.hero-image {
   background-image: url("cityBanner.jpg"); 
 	
   height: auto;
@@ -10,7 +10,7 @@
   background-size: cover;
 }
 
-.aboutMe-image{
+.aboutMe-image {
   background-image: url("futureCity.jpg"); 
 	
   height: auto;
@@ -19,6 +19,17 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.skyScraper {
+	background-image: url("skyscraper.jpg");
+	
+	height: auto;
+	width: auto;
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .hero-text {
@@ -30,7 +41,7 @@
   color: white;
 }
 
-.black-box{
+.black-box {
   bottom: 20px;
   right: 20px;
   background-color:rgba(0, 0, 0, 0.5);
